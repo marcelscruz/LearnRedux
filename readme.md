@@ -1,5 +1,25 @@
-React Boilerplate
+# Learn Redux
 
-After cloning, go to terminal and install these dependencies:
+Learning the concepts of Redux.
 
-npm install css-loader@0.23.1 script-loader@0.6.1 style-loader@0.13.0 jquery@2.2.1 foundation-sites@6.2.0 --save-dev
+## Project
+
+This project was created based on Andrew Mead's React course.
+
+## Built with
+
+* React
+* Redux
+* Express.js
+* Sass
+* Mocha
+* Karma
+* Webpack
+
+## Author
+
+* **Marcel Cruz**
+
+## Acknowledgments
+
+* [Andrew Mead - The Complete React Web Developer Course (1st edition)](https://mead.io/)
